@@ -1,5 +1,6 @@
 # 12 tones
 # C3 -- E5 [0..28]
+# A script for generating different music tunings
 
 import math
 
